@@ -7,4 +7,4 @@ whiteListIframe(/^(https?:)?\/\/www\.youtube\.com\/embed\/.+/i);
 whiteListIframe(/^(https?:)?\/\/discordapp\.com\/.+/i);
 whiteListIframe(/^(https?:)?\/\/www\.facebook\.com\/plugins\/.+/i);
 whiteListIframe(/^(https?:)?\/\/www\.roundme\.com\/embed\/.+/i);
-whiteListIframe(/^(https?:)?\/\/www\.oppkey\.host\/.+/i);
+whiteListIframe(/^(http?:)?\/\/www\.oppkey\.host\/.+/i);
