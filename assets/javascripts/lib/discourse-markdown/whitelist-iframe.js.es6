@@ -9,3 +9,4 @@ whiteListIframe(/^(https?:)?\/\/www\.facebook\.com\/plugins\/.+/i);
 whiteListIframe(/^(https?:)?\/\/roundme\.com\/embed\/.+/i);
 whiteListIframe(/^(http?:)?\/\/www\.oppkey\.host\/.+/i);
 whiteListIframe(/^(https?:)?\/\/codetricity\.github\.io\/.+/i);
+whiteListIframe(/^(https?:)?\/\/ric\.theta360\.biz\/.+/i);
