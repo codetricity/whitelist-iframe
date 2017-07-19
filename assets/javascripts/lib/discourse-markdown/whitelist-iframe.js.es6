@@ -8,3 +8,5 @@ whiteListIframe(/^(https?:)?\/\/discordapp\.com\/.+/i);
 whiteListIframe(/^(https?:)?\/\/www\.facebook\.com\/plugins\/.+/i);
 whiteListIframe(/^(https?:)?\/\/roundme\.com\/embed\/.+/i);
 whiteListIframe(/^(http?:)?\/\/www\.oppkey\.host\/.+/i);
+whiteListIframe(/^(https?:)?\/\/www\.facebook\.com\/.+/i);
+whiteListIframe(/^(https?:)?\/\/codetricity\.github\.io\/.+/i);
